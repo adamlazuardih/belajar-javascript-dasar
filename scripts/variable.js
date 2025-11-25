@@ -1,11 +1,11 @@
-var firstName = "Adam";
-var middleName = "Lazuardi";
-var lastName = "Haris";
-var fullName = "Adam" + " Lazuardi " + "Haris";
+let firstName = "Adam";
+let middleName = "Lazuardi";
+let lastName = "Haris";
+let fullName = "Adam" + " Lazuardi " + "Haris";
 
-var age = 28;
-var gpa = 3.15;
-var gradYear = 2024;
+let age = 28;
+let gpa = 3.15;
+let gradYear = 2024;
 
 document.writeln("<textarea cols='50' rows='10'>");
 document.write("Name: " + fullName + "\n");
