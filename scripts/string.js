@@ -1,0 +1,11 @@
+document.writeln("<textarea cols='50' rows='15'>");
+document.write("Nama:");
+document.write("\nAdam Lazuardi Haris\n");
+document.write("\nUsia:");
+document.write("\n" + 28 + " Tahun\n");
+document.write("\nProdi: ");
+document.write("\nTeknik Informatika");
+document.write("\\Home\\sys_ad4min\n");
+document.write('\n"\Hati-hati saat coding"\n');
+document.write("\n'\Hati-Hati ngantuk'");
+document.writeln("</textarea>");
