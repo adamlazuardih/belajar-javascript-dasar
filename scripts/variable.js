@@ -7,7 +7,9 @@ let age = 28;
 let gpa = 3.15;
 let gradYear = 2024;
 
-document.writeln("<textarea cols='50' rows='10'>");
+const univ = "Universitas Ma Chung";
+
+document.writeln("<textarea cols='50' rows='20'>");
 document.write("Name: " + fullName + "\n");
 document.write(
   "\nFirst Name: " +
@@ -16,9 +18,12 @@ document.write(
     middleName +
     "\nLast Name: " +
     lastName +
+    "\n" +
+    "\nUniversity: " +
+    univ +
     "\n",
 );
 document.write("\nAge: " + age);
-document.write("\nGPA: " + gpa);
+document.write("\nGPA: " + 3.22);
 document.write("\ngradYear: " + gpa);
 document.writeln("</textarea>");
